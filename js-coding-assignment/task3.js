@@ -1,7 +1,7 @@
 let students = [
  { name: "Deep", age: 22, scores: [78, 85, 92] },
- { name: "Dev", age: 20, scores: [88, 90, 76] },
- { name: "janvee", age: 24, scores: [95, 80, 85] }
+ { name: "dev", age: 20, scores: [88, 90, 76] },
+ { name: "Janvee", age: 21, scores: [95, 80, 85] }
 ];
 
 let highestAverage = 0;
