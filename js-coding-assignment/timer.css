@@ -1,0 +1,32 @@
+body{
+background-color:#e6f2ff;
+text-align:center;
+font-family:Arial, sans-serif;
+margin-top:100px;
+}
+
+h1{
+color:#333;
+}
+
+#timer{
+font-size:60px;
+margin:20px;
+font-weight:bold;
+color:#222;
+}
+
+button{
+padding:10px 20px;
+margin:10px;
+font-size:16px;
+border:none;
+background-color:#4CAF50;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background-color:#45a049;
+}
