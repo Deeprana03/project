@@ -1,0 +1,141 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #222;
+  padding: 14px 30px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 14px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* HEADER */
+#home {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+#home h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+#home p {
+  font-size: 16px;
+  color: #aaa;
+}
+
+/* SECTION HEADINGS */
+h2 {
+  font-size: 24px;
+  border-bottom: 2px solid #222;
+  padding-bottom: 6px;
+  margin-bottom: 20px;
+}
+
+/* ABOUT */
+#about p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #444;
+}
+
+/* PROJECTS */
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  font-size: 17px;
+  margin-bottom: 4px;
+}
+
+.project p {
+  font-size: 14px;
+  color: #555;
+  margin: 0;
+}
+
+/* HOBBIES */
+#hobbies h3 {
+  font-size: 17px;
+  margin-bottom: 6px;
+}
+
+#hobbies p {
+  font-size: 14px;
+  color: #555;
+}
+
+#hobbies ol {
+  font-size: 14px;
+  color: #555;
+  padding-left: 18px;
+  margin-bottom: 20px;
+}
+
+#hobbies ol li {
+  margin-bottom: 4px;
+}
+
+/* CONTACT FORM */
+#contact label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+
+#contact input,
+#contact textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+
+#contact button {
+  background-color: #222;
+  color: #fff;
+  padding: 10px 28px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* FOOTER */
+footer {
+  background-color: #222;
+  color: #aaa;
+  text-align: center;
+  padding: 20px;
+  font-size: 13px;
+}
+
+footer a {
+  color: #aaa;
+  text-decoration: none;
+  margin: 0 10px;
+}
